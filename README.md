@@ -7,6 +7,7 @@ install gogs - > https://pimylifeup.com/raspberry-pi-gogs/
 in custom/app.ini
 
 [repository.upload]
+
 FILE_MAX_SIZE = 300
 
 
